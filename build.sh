@@ -1,3 +1,3 @@
-#!/bin/zsh
+#!/bin/bash
 
-docker build -t ghcr.io/netwarlan/speedtest .
+docker build -t netwarlan/speedtest .
