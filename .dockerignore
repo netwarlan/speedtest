@@ -1,5 +1,4 @@
 .git
-.github
 readme.md
 build.sh
 .gitignore
