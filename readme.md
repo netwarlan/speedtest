@@ -14,15 +14,15 @@ The following is an example of what the output will be like:
 ``` 
    Speedtest by Ookla
 
-      Server: Cox - Omaha - Omaha, NE (id: 16621)
-         ISP: Cox Communications
-Idle Latency:    16.99 ms   (jitter: 3.03ms, low: 14.38ms, high: 18.96ms)
-    Download:   336.07 Mbps (data used: 541.9 MB)
-                 33.06 ms   (jitter: 12.94ms, low: 9.98ms, high: 359.21ms)
-      Upload:     7.86 Mbps (data used: 9.0 MB)
-                 56.32 ms   (jitter: 28.04ms, low: 13.30ms, high: 480.20ms)
- Packet Loss: Not available.
-  Result URL: https://www.speedtest.net/result/c/29e30560-0c73-4e0c-90b6-98fd7942101a
+      Server: Metronet - Ames, IA (id: 34820)
+         ISP: Metronet
+Idle Latency:    13.48 ms   (jitter: 0.26ms, low: 13.46ms, high: 13.99ms)
+    Download:   427.56 Mbps (data used: 445.7 MB)                                                   
+                126.44 ms   (jitter: 30.63ms, low: 13.73ms, high: 317.06ms)
+      Upload:   201.68 Mbps (data used: 155.8 MB)                                                   
+                 56.29 ms   (jitter: 27.79ms, low: 14.90ms, high: 222.69ms)
+ Packet Loss:     0.0%
+  Result URL: https://www.speedtest.net/result/c/e6d454d3-97fd-43ba-8b56-9a2a5f941c84
 ```
 
 Results include the speedtest server used, the ISP the container is currently using, and network statistics. 

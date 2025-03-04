@@ -13,7 +13,6 @@ RUN dpkg --add-architecture i386  \
         gnupg \
     && apt clean \
     && rm -rf /var/tmp/* /var/lib/apt/lists/* /tmp/* \
-
     && curl -s https://packagecloud.io/install/repositories/ookla/speedtest-cli/script.deb.sh | bash \
     && apt install speedtest
 
