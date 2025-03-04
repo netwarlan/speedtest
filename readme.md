@@ -5,7 +5,7 @@ We can use Ookla's cli tooling to run speedtests on various systems/platforms.
 ### Running
 To run the container, issue the following command:
 ```
-docker run -it --rm ghcr.io/netwarlan/speedtest
+docker run --rm ghcr.io/netwarlan/speedtest
 ```
 This will pull down our latest build of the Ookla cli and perform a speedtest against the closest / most available server.
 
