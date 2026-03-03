@@ -1,5 +1,9 @@
 # NETWAR Speedtest
 
+[![Build](https://img.shields.io/github/actions/workflow/status/netwarlan/speedtest/build.yml)](https://github.com/netwarlan/speedtest/actions)
+[![Release](https://img.shields.io/github/v/release/netwarlan/speedtest)](https://github.com/netwarlan/speedtest/releases)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?logo=discord&logoColor=white)](https://discord.gg/QtqKW9xvzK)
+
 We can use Ookla's cli tooling to run speedtests on various systems/platforms.
 
 ### Running
